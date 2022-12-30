@@ -7,3 +7,5 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+Roboteasy é uma documentação hospedada no Read the docs
